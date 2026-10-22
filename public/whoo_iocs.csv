@@ -1,0 +1,32 @@
+﻿type,indicator,attribution,note
+domain,www.wh00.ooo,first-party,whoo API
+domain,www-a.wh00.ooo,first-party,whoo API (alternate)
+domain,app.adjust.com,third-party,Adjust attribution
+domain,adjust.world,third-party,Adjust attribution
+domain,ms.applovin.com,third-party,AppLovin MAX config
+domain,prod-a.applovin.com,third-party,AppLovin MAX
+domain,rt.applovin.com,third-party,AppLovin MAX event
+domain,rt.applvn.com,third-party,AppLovin MAX event
+domain,app-measurement.com,third-party,Firebase Analytics
+domain,googleads.g.doubleclick.net,third-party,Google Ads
+domain,ad.doubleclick.net,third-party,Google Ads
+domain,api16-access-sg.pangle.io,third-party,Pangle (ByteDance)
+domain,init-mp.fyber.com,third-party,Fyber mediation
+domain,*.inner-active.mobi,third-party,Fyber/Inneractive
+domain,config.ads.vungle.com,third-party,Vungle
+domain,adx.ads.vungle.com,third-party,Vungle
+domain,config.inmobi.com,third-party,InMobi
+domain,ads.inmobi.com,third-party,InMobi
+domain,telemetry.sdk.inmobi.com,third-party,InMobi telemetry
+domain,sdkapi.dsp-api.moloco.com,third-party,Moloco
+domain,ow.pubmatic.com,third-party,PubMatic
+domain,ads.pubmatic.com,third-party,PubMatic
+domain,mraid.bigo.sg,third-party,Bigo Ads
+domain,*.fivecdm.com,third-party,Five
+domain,log.byteoversea.com,third-party,ByteDance APM
+id,a6hm…<REDACTED>,adjust,Adjust app token
+id,qpHg…<REDACTED>,applovin,AppLovin SDK key
+id,35cb…<REDACTED>,applovin,MAX ad unit
+id,ca-app-pub-…~<REDACTED>,admob,AdMob App ID
+id,z90k4e,adjust,Adjust revenue event token
+id,dhuiz0,adjust,Adjust registration event token
